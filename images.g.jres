@@ -1,0 +1,23 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFUFAAAAAAAAVQUAAABVVVWIiAAAAFVVVYiIdwAA9VVfiIh3AABVVV+IiAAAAPVVX4iIdwAAVVVViIh3AABVVVWIiAAAAAAAAFUFAAAAAAAAVQUAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "noob"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBEREREAAAAQEREREQAAABAREf8fAAAAEPERER8AAAAQERERHwAAABDxEREfAAAAEBER/x8AAAAQEREREQAAABARERERAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bola branca"
+    },
+    "song1": {
+        "data": "0078000408020100001c00010a006400f401640000040000000000000000000000000005000004120008000c0001270c0010000127100014000127",
+        "mimeType": "application/mkcd-song",
+        "displayName": "POWER UP",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
